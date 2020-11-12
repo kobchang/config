@@ -35,3 +35,4 @@ spring:
   
 msaconfig:
   greeting: "welcome to prod server"
+  
