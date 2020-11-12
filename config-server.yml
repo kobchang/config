@@ -1,8 +1,3 @@
-msaconfig:
-  greeting: "hello hi"
-  
----
-
 spring:
   profiles: local
 
